@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: National Science Data Democratization Consortium
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Put a cool sentence here for National Science Data Democratization Consortium
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,11 +13,11 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Who we are
+    text: Here some text to say who we are. We are National Science Data Democratization Consortium, this is who we are, you can write more in here to tell them who we are.
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Who are our partners?
+        url: '#sponsors'
         class: btn-light
 
   - type: services.html
@@ -79,42 +78,58 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  # - type: aside.html
+  #   section_id: aside
+  #   title: Free Download at Start Bootstrap!
+  #   actions:
+  #     - title: Download Now!
+  #       url: https://startbootstrap.com/themes/creative/
+  #       class: btn-light
 
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
+  - type: sponsors.html
+    section_id: sponsors
+    title: Partners
+    # background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: Scientific Computing and Imaging Institute
+        text: University of Utah
+        image: assets/img/sponsors/sci.jpg
         url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
+      - title: University of Tennessee
+        # text: Bass guitar.
+        image: assets/img/sponsors/tennessee.png
         url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: San Diego Supercomputing 
+        # text: Lead guitar.
+        image: assets/img/sponsors/sdsc.png
         url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+      - title: John Hopkins University
+        # text: Musician, songwriter, producer.
+        image: assets/img/sponsors/jhp.png
         url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
+      - title: University of Michigan
+        # text: Drums, percussion.
+        image: assets/img/sponsors/michigan.jpg
         url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
+      - title: Alluxio
+        # text: PR.
+        image: assets/img/sponsors/alluxio.jpg
+        url: '#'
+      - title: Protocol Labs Research
+        # text: PR.
+        image: assets/img/sponsors/protocol.png
+        url: '#'
+      - title: Intel
+        # text: PR.
+        image: assets/img/sponsors/intel.png
+        url: '#'
+      - title: Minio
+        # text: PR.
+        image: assets/img/sponsors/minio.png
+        url: '#'
+      - title: Seal Storage
+        # text: PR.
+        image: assets/img/sponsors/sealstorage.png
         url: '#'
 
   - type: timeline.html
