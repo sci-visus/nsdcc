@@ -3,10 +3,17 @@
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider border border-primary border-2">
     <div class="row justify-content-center">
+      <div class="col-lg-3 col-md-6 text-center">
+        <div class="portfolio-box" style="min-height: 200px;">
+          <a href="https://cedmav.sci.utah.edu/"><img class="text-primary" src="assets/img/sponsors/cedmav.png" alt="CEDMAV" width="80%"></a>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
       {% for member in section.members %}
       <div class="col-lg-3 col-md-6 text-center">
-        <div class="portfolio-box">
-          <img class="text-primary" src="{{ member.image }}" alt="{{ member.title }}" width="60%">
+        <div class="portfolio-box" style="min-height: 200px;">
+          <a href="{{ member.url }}"><img class="text-primary" src="{{ member.image }}" alt="{{ member.title }}" width="60%"></a>
           <!-- <h3 class="h4 mb-2">{{ member.title }}</h3>
           <p class="text-white-50 mb-0">{{ member.text }}</p> -->
         </div>

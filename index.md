@@ -94,43 +94,43 @@ sections:
       - title: Scientific Computing and Imaging Institute
         text: University of Utah
         image: assets/img/sponsors/sci.jpg
-        url: '#'
+        url: 'https://sci.utah.edu/'
       - title: University of Tennessee
         # text: Bass guitar.
         image: assets/img/sponsors/tennessee.png
-        url: '#'
+        url: 'https://www.utk.edu/'
       - title: San Diego Supercomputing 
         # text: Lead guitar.
         image: assets/img/sponsors/sdsc.png
-        url: '#'
+        url: 'https://sdsc.edu/'
       - title: John Hopkins University
         # text: Musician, songwriter, producer.
         image: assets/img/sponsors/jhp.png
-        url: '#'
+        url: 'https://www.jhu.edu'
       - title: University of Michigan
         # text: Drums, percussion.
         image: assets/img/sponsors/michigan.jpg
-        url: '#'
+        url: 'https://umich.edu/'
       - title: Alluxio
         # text: PR.
-        image: assets/img/sponsors/alluxio.jpg
-        url: '#'
+        image: assets/img/sponsors/alluxio.png
+        url: 'https://www.alluxio.io/'
       - title: Protocol Labs Research
         # text: PR.
         image: assets/img/sponsors/protocol.png
-        url: '#'
+        url: 'https://research.protocol.ai/'
       - title: Intel
         # text: PR.
         image: assets/img/sponsors/intel.png
-        url: '#'
+        url: 'https://www.intel.com/content/www/us/en/homepage.html'
       - title: Minio
         # text: PR.
         image: assets/img/sponsors/minio.png
-        url: '#'
+        url: 'https://min.io'
       - title: Seal Storage
         # text: PR.
         image: assets/img/sponsors/sealstorage.png
-        url: '#'
+        url: 'https://www.sealstorage.io/'
 
   - type: timeline.html
     section_id: timeline
