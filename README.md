@@ -1,22 +1,14 @@
-# Creative Theme for Jekyll
+# How to customize content
 
-A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/theme/creative/) template by [Start Bootstrap](https://startbootstrap.com).
-
-An attractive one page Bootstrap theme perfect for creative portfolios and businesses
-
-Based on Creative Theme v7.0.7 and Bootstrap v5.2.3.
-
-## To use the Creative Theme template in your project
-
-Creating a site with this particular Jekyll theme, is basically writing a markdown site.
-
-- Start by adding your info in `_config.yml`.
-- Don't forget to change `_data/footer.yml` to update the copyright.
 - In `index.md` reorder or remove section as you prefer.
+- In assets `assets/img` are the images used in the various pages
+- Footer is in `_data/footer.yml` to update the copyright.
+- General config in `_config.yml`.
 - You can also add other pages, like `links.md`.
 - Edit `_data/menus.yml` to add links in the navigation bar.
 
 # Credits
+* Based on Creative Theme v7.0.7 and Bootstrap v5.2.3.
 * This work is heavily inspired by https://github.com/volny/creative-theme-jekyll.
 * Timeline template is based on https://github.com/anbasile/pickmeup.
 * Timeline end image is taken from http://bsvp.in/join-us/.
