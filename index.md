@@ -3,7 +3,7 @@ layout: home
 header:
   title: National Science Data Democratization Consortium
   text: >
-    Advancing research and knowledge in cyberinfrastructure technologies.
+    Where industry and academia endeavor to democratize data access and promote equity in science.
   action: # action button is optional
     label: Find Out More
     url: '#about'
