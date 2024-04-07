@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Who we are
-    text: Here some text to say who we are. We are National Science Data Democratization Consortium, this is who we are, you can write more in here to tell them who we are.
+    text: The University of Utah has established the National Science Data Democratization Consortium (NSDDC) to advance research and knowledge in cyberinfrastructure technologies. These technologies facilitate access to scientific and engineering data through various storage and computing solutions, democratizing its use for research, innovation, outreach, and education. Sponsor members from industry and academia will have the chance to collaborate in the ethos of sharing open technology. Within NSDDC, research scientists, software engineers, data scientists, students, postdocs, and other cyberinfrastructure professionals (CIP) will have opportunities to engage in cooperative activities, including testing new technology, developing research prototypes, and training the workforce.
     actions:
       - title: Who are our partners?
         url: '#sponsors'
