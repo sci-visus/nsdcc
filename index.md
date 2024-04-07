@@ -3,7 +3,7 @@ layout: home
 header:
   title: National Science Data Democratization Consortium
   text: >
-    Put a cool sentence here for National Science Data Democratization Consortium
+    Advancing research and knowledge in cyberinfrastructure technologies.
   action: # action button is optional
     label: Find Out More
     url: '#about'
