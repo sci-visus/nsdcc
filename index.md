@@ -131,6 +131,10 @@ sections:
         # text: PR.
         image: assets/img/sponsors/sealstorage.png
         url: 'https://www.sealstorage.io/'
+      - title: DoubleCloud
+        # text: PR.
+        image: assets/img/sponsors/doublecloud.png
+        url: 'https://double.cloud/'
 
   # - type: timeline.html
   #   section_id: timeline
